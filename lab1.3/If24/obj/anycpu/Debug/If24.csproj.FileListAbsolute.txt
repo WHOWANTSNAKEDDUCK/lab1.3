@@ -1,0 +1,5 @@
+/Users/a1/Documents/lab1.3/If24/bin/Debug/If24.exe
+/Users/a1/Documents/lab1.3/If24/bin/Debug/If24.pdb
+/Users/a1/Documents/lab1.3/If24/obj/anycpu/Debug/If24.csproj.CoreCompileInputs.cache
+/Users/a1/Documents/lab1.3/If24/obj/anycpu/Debug/If24.exe
+/Users/a1/Documents/lab1.3/If24/obj/anycpu/Debug/If24.pdb

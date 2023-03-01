@@ -1,0 +1,6 @@
+/Users/a1/Documents/lab1.3/if3/bin/Debug/if3.exe
+/Users/a1/Documents/lab1.3/if3/bin/Debug/if3.pdb
+/Users/a1/Documents/lab1.3/if3/obj/Debug/if3.csproj.AssemblyReference.cache
+/Users/a1/Documents/lab1.3/if3/obj/Debug/if3.csproj.CoreCompileInputs.cache
+/Users/a1/Documents/lab1.3/if3/obj/Debug/if3.exe
+/Users/a1/Documents/lab1.3/if3/obj/Debug/if3.pdb

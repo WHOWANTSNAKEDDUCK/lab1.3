@@ -1,0 +1,5 @@
+/Users/a1/Documents/lab1.3/if13/bin/Debug/if13.exe
+/Users/a1/Documents/lab1.3/if13/bin/Debug/if13.pdb
+/Users/a1/Documents/lab1.3/if13/obj/anycpu/Debug/if13.csproj.CoreCompileInputs.cache
+/Users/a1/Documents/lab1.3/if13/obj/anycpu/Debug/if13.exe
+/Users/a1/Documents/lab1.3/if13/obj/anycpu/Debug/if13.pdb

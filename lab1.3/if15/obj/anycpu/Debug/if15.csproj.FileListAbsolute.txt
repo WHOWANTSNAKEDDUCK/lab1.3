@@ -1,0 +1,6 @@
+/Users/a1/Documents/lab1.3/if15/bin/Debug/if15.exe
+/Users/a1/Documents/lab1.3/if15/bin/Debug/if15.pdb
+/Users/a1/Documents/lab1.3/if15/obj/anycpu/Debug/if15.csproj.AssemblyReference.cache
+/Users/a1/Documents/lab1.3/if15/obj/anycpu/Debug/if15.csproj.CoreCompileInputs.cache
+/Users/a1/Documents/lab1.3/if15/obj/anycpu/Debug/if15.exe
+/Users/a1/Documents/lab1.3/if15/obj/anycpu/Debug/if15.pdb
